@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\Program\Ordenação\bin\Debug\net6.0\Ordenação.exe
+C:\Users\laboratorio\source\repos\Program\Ordenação\bin\Debug\net6.0\Ordenação.deps.json
+C:\Users\laboratorio\source\repos\Program\Ordenação\bin\Debug\net6.0\Ordenação.runtimeconfig.json
+C:\Users\laboratorio\source\repos\Program\Ordenação\bin\Debug\net6.0\Ordenação.dll
+C:\Users\laboratorio\source\repos\Program\Ordenação\bin\Debug\net6.0\Ordenação.pdb
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.dll
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\refint\Ordenação.dll
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.pdb
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\Ordenação.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\Program\Ordenação\obj\Debug\net6.0\ref\Ordenação.dll
